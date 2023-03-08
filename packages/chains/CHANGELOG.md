@@ -1,5 +1,11 @@
 # @wagmi/chains
 
+## 0.2.12
+
+### Patch Changes
+
+- c6b2b3a: Added Scroll Testnet Chain
+
 ## 0.2.11
 
 ### Patch Changes

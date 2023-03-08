@@ -1,5 +1,11 @@
 # @wagmi/connectors
 
+## 0.3.3
+
+### Patch Changes
+
+- 4d2c90a: Added name mapping for Phantom
+
 ## 0.3.2
 
 ### Patch Changes
